@@ -9,6 +9,6 @@
   나. 아학코서버에서 다운받기           https://aslegend.asuscomm.com:4915/sharing/HsVdCaEO5
 
 
-#2. Arduino IDE 설치하기
+# 2. Arduino IDE 설치하기
 
    가. Arduino 공시 사이트에서 다운 받기 https://www.arduino.cc/en/Main/Software
